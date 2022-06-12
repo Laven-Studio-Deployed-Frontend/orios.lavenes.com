@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3bef68d2.chunk.css",
+    "main.js": "/static/js/main.43e311c3.chunk.js",
+    "main.js.map": "/static/js/main.43e311c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.022e8f21.js",
+    "runtime-main.js.map": "/static/js/runtime-main.022e8f21.js.map",
+    "static/js/2.d63d5c32.chunk.js": "/static/js/2.d63d5c32.chunk.js",
+    "static/js/2.d63d5c32.chunk.js.map": "/static/js/2.d63d5c32.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21f196d5c7abe0b527a6e6be967da039.js": "/precache-manifest.21f196d5c7abe0b527a6e6be967da039.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3bef68d2.chunk.css.map": "/static/css/main.3bef68d2.chunk.css.map",
+    "static/js/2.d63d5c32.chunk.js.LICENSE.txt": "/static/js/2.d63d5c32.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/static/media/arrow.650d40b0.svg",
+    "static/media/checkmark.svg": "/static/media/checkmark.7d40d0b4.svg",
+    "static/media/disabledArrow.svg": "/static/media/disabledArrow.e7ca074e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022e8f21.js",
+    "static/js/2.d63d5c32.chunk.js",
+    "static/css/main.3bef68d2.chunk.css",
+    "static/js/main.43e311c3.chunk.js"
+  ]
+}
